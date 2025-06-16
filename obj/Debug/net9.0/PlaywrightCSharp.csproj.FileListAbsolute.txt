@@ -1,0 +1,5 @@
+C:\Users\Pankaj\OneDrive\Desktop\Playwright with c# .net\PlaywrightCSharp\obj\Debug\net9.0\PlaywrightCSharp.csproj.AssemblyReference.cache
+C:\Users\Pankaj\OneDrive\Desktop\Playwright with c# .net\PlaywrightCSharp\obj\Debug\net9.0\PlaywrightCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj\OneDrive\Desktop\Playwright with c# .net\PlaywrightCSharp\obj\Debug\net9.0\PlaywrightCSharp.AssemblyInfoInputs.cache
+C:\Users\Pankaj\OneDrive\Desktop\Playwright with c# .net\PlaywrightCSharp\obj\Debug\net9.0\PlaywrightCSharp.AssemblyInfo.cs
+C:\Users\Pankaj\OneDrive\Desktop\Playwright with c# .net\PlaywrightCSharp\obj\Debug\net9.0\PlaywrightCSharp.csproj.CoreCompileInputs.cache
